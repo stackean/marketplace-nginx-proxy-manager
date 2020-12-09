@@ -1,0 +1,1 @@
+# marketplace-nginx-proxy-manager
